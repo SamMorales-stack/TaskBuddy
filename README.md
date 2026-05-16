@@ -1,5 +1,7 @@
 # TaskBuddy
 
+Planner for tasks listed down for easy access and time management.
+
 Personal task tracker built with Streamlit and SQLite.
 
 ## Run locally
